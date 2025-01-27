@@ -1,3 +1,5 @@
+![최종 발표 영상용 유튜브 커버 이미지](https://raw.githubusercontent.com/freentour/AIFFELthon_HIH/refs/heads/main/cover-youtube.png)
+
 # AIFFELthon_HIH
 아이펠 코어8기 RAG 프로젝트 한입해팀 전용 레포지토리
 - '한입해(한방에 입시 해결)'는 매년 변하고 대학별로 모두 다른 입시 정보와 관련해서 하나 하나 직접 찾아보는 대신 질문하면 곧바로 필요한 답변을 얻을 수 있는 ‘AI 기반의 수시 정보 전문 챗봇 서비스’입니다.
